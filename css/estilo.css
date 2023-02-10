@@ -1,0 +1,171 @@
+nav {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.centro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h4-header {
+    display: block;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.div-notfixed {
+    background-color: white;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.a-header {
+    text-decoration: none;
+    color: inherit;
+}
+
+.listaMenu {
+    text-align: center;
+    list-style: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu {
+    margin-left: auto;
+    margin-right: 10px;
+    display: inline;
+    text-align: center;
+}
+
+.button {
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.button:hover {
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    color: #7ABA96;
+}
+
+.contenedor{
+    margin-top: 45px;
+    height: 715px;
+    padding-left: 150px;
+    margin-bottom: 50px;
+}
+
+aside{
+    height: 600px;
+    width: 23%;
+    float: left;
+}
+
+.section1{
+    margin-left: 15px;
+    width: 35%;
+    height: 350px;
+    float: left;
+
+}
+.section-image {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.img-pasta{
+    height: 195px;
+    width: 313px;
+}
+.section2{
+    width: 35%;
+    height: 350px;
+    margin-left: -75px;
+    float: left;
+}
+.section3{
+    width: 35%;
+    height: 350px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+}
+.section4{
+    width: 35%;
+    height: 350px;
+    margin-top: 15px;
+    margin-left: -75px;
+    float: left;
+}
+.hr-section{
+    width: 65%;
+    border-top: 1px solid #7ABA96;
+}
+.descripcio1{
+    margin: 10px 63px;
+}
+.descripcio2{
+    margin: 10px 77px;
+}
+.descripcio3{
+    margin: 10px 77px;
+}
+.descripcio4{
+    margin: 10px 63px;
+}
+.text-align{
+    text-align: left;
+}
+h4 {
+    text-align: center;
+    color: #8A8070;
+}
+p{
+    text-align: center;
+}
+p{
+    text-align:center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.footer {
+    background-color: black;
+    text-align: center;
+    height: 100px;
+    clear: both;
+}
+
+.list-footer{
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.li-footer{
+    margin-top: 35px;
+}
+.mantenimeinto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 400px;
+}
+.link-footer {
+    color: white;
+    background-color: transparent;
+    padding: 10px;
+    text-decoration: none;
+}
