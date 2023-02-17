@@ -33,10 +33,27 @@
     </nav>
   </header>
   <section>
-    <img class="mantenimeinto " src="../imagenes/en_mantenimeinto.jpg" alt="en matenimento el manetenimento">
-    <br>
-    <p>EN MANTENIMIENTO</p>
-    <br>
+    <form action="">
+      <label for="nombre"><b> Nombre </b></label>
+      <input type="text" name="nombre" id="nombre" placeholder="Escribe tu nombre" />
+
+      <label for="apellidos"> <b> Apellidos </b></label>
+      <input type="text" name="apellidos" id="apellidos" placeholder=" Escribe tu Apellidos" />
+
+      <label for="email" class="gmail"><b>Email </b></label>
+      <input type="email" name="email" id="email" placeholder="Email" required />
+
+        <label class="exte" for="servicio"> <b> Probincia </b></label>
+        <select class="seleccion" name="servicio">
+          <option selected>Barcelona</option>
+          <option>Tarragona</option>
+          <option>Lleida</option>
+          <option>Girona</option>
+          
+        </select>
+        <label for="Telefono"> <b>Telefono </b></label>
+      <input type="number" name="telefono" placeholder=" Número" class="tele">
+    </form>
   </section>
   <footer class="footer">
     <ul class="list-footer">
