@@ -22,7 +22,7 @@ a{
 }
 .tarjeta-rest{
     background-repeat: no-repeat;
-    height: 400px;
+    *height: 400px;
     border-radius: 6px;
     padding: 1rem .5rem;
     display: flex;
@@ -60,10 +60,14 @@ a{
         grid-template-columns: repeat(3,1fr);
     }
 }
-
+@media (max-width:770px){
+    .column4{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
 @media (max-width:768px){
     .column4{
-        grid-template-columns: repeat(3,1fr);
+        grid-template-columns: repeat(2,1fr);
     }
 }
 
