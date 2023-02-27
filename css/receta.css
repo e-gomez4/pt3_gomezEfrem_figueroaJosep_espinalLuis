@@ -55,6 +55,20 @@ a{
     font-weight: bold;
 }
 
+.paginacion{
+    text-decoration: none;
+    
+    align-items: center;
+    justify-content: center;
+    background-color: darkgray;
+    height: 5vh;
+    margin-bottom: 20px;
+}
+.paginacion a{
+    width: 100%;
+    text-align: center;
+}
+
 @media (max-width:1024px){
     .column4{
         grid-template-columns: repeat(3,1fr);
