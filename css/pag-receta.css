@@ -113,8 +113,8 @@ a{
 }
 #enlace {
     position: absolute;
-    width: 17.9%;
-    height: 65.5%;
+    width: 21.9%;
+    height: 40.5%;
   }
 
 @media (max-width:1024px){
@@ -124,7 +124,7 @@ a{
     #enlace{
         position: absolute;
         width: 29.9%;
-        height: 70.5%;
+        height: 38.5%;
     }
 }
 @media (max-width:750px){
@@ -134,14 +134,14 @@ a{
     #enlace{
         position: absolute;
         width: 45.9%;;
-        height: 65.5%;
+        height: 38.5%;
     }
 }
 @media (max-width:560px){
     #enlace{
         position: absolute;
         width: 43.9%;
-        height: 71.5%;
+        height: 43.5%;
     }
 }
 
