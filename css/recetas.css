@@ -1,0 +1,68 @@
+h1,h2 span{font-family: 'Playfair Display SC', serif;}
+#recetas-section{
+    background-position: center center;
+    background-size: 100% 100%;
+    height: 100vh;
+    padding: 50px;
+}
+#main-container .bg-recetas-calabacines{
+    background-image: url(../imagenes/calabacines.jpg);
+}
+#main-container .bg-recetas-pasta{
+    background-image: url(../imagenes/calabacines.jpg);
+}
+#main-container .bg-recetas-calabacines{
+    background-image: url(../imagenes/calabacines.jpg);
+}
+#main-container .bg-recetas-calabacines{
+    background-image: url(../imagenes/calabacines.jpg);
+}
+#main-container .bg-recetas-calabacines{
+    background-image: url(../imagenes/calabacines.jpg);
+}
+
+#main-container .recetas-titulo h1{
+    color: white;
+    font-size: 5em;
+    text-align: center;
+}
+#main-container .recetas-titulo h3{
+    color: white;
+    font-size: 2.5em;
+    text-align: center;
+}
+#main-container #recetas-content section{
+    background-color: white;
+    margin: 0;
+    padding: 50px;
+    text-align: top;
+    width: 400px;
+}
+
+#main-container #recetas-content {
+    width: 30%;
+    vertical-align: top;
+    display: inline-block;
+}
+#main-container #preparacion{
+    width: 30%;
+    vertical-align: top;
+    display: inline-block;
+}
+#main-container section .lista-ingredientes{
+    box-sizing: border-box;
+}
+#main-container section .lista-ingredientes li{
+    text-align: left;
+    margin-left: 130px;
+}
+#main-container section .lista-ingredientes li div{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.5em;
+    font-style: italic;
+    vertical-align: middle;
+    width: 150px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 20px;
+}
