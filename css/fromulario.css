@@ -1,15 +1,20 @@
-formulario{
+.formulario{
     display: flex;
     margin-right: 5%;
     margin-left: 5%;
     margin-top: 6%;
-    margin-bottom: 7%;
+    margin-bottom: 7%;    
 }
 .informacion{
-    width: 20%;
-    margin-right: 8%;
-    background-color: rgb(169, 169, 169);
+    width: 30%;
+    margin-right: 2%;
+    background-color:#C9C8C8;
 
+}
+@media (max-width:516px){
+  .informacion{
+    width: 145px; 
+  }  
 }
 form{
     width:40%;
@@ -19,17 +24,31 @@ form{
     margin-right: 90%;
     width: 50%;
 }
-input{
+
+#nombre,#apellidos,#email{
     margin-bottom: 3%;
     width: 100%;
+    border: none;
+    border-bottom: solid 2px #414141;
+    height: 10%;
 }
+
 .bore{
     width: 40%;
+    margin-left:2%;
+    border: none;
 }
+
 .boto{
     width: 40%;
+    border: none;
+}
+.bore:hover,.boto:hover{
+    background-color: #A6A6A6;
 }
 textarea{
     width: 100%;
     margin-bottom: 3%;
+    background-color: #E2DFDF;
+    HEIGHT: 20%
 }
