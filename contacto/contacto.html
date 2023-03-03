@@ -9,6 +9,7 @@
   <meta name="description" content="M04 UF1 HTML">
   <meta name="dateCreated" content="10/02/2023">
   <link rel="stylesheet" href="../css/estilo.css">
+  <link rel="stylesheet" href="../css/fromulario.css">
 </head>
 
 <body>
@@ -18,7 +19,8 @@
     <nav class="nav-header">
       <div class="div-notfixed">
         <ul class="listaMenu">
-          <li class="menu"><button class="button button:hover"><a href="../index.html" class="a-header">INICIO</a></button>
+          <li class="menu"><button class="button button:hover"><a href="../index.html"
+                class="a-header">INICIO</a></button>
           </li>
           <li class="menu"><button class="button button:hover"><a href="#sobremi" class="a-header">SOBRE MI</a></button>
           </li>
@@ -33,27 +35,37 @@
     </nav>
   </header>
   <section>
-    <form action="">
-      <label for="nombre"><b> Nombre </b></label>
-      <input type="text" name="nombre" id="nombre" placeholder="Escribe tu nombre" />
+    <div class="formulario">
+      <section class="informacion">
+        <h1 style="font-size: 22;">Informaccion de contacto</h1>
+        <P>Teléfono de contacto</P>
+        <p>69814546</p>
+      </section>
+      <form action="">
+        <label for="nombre"><b> Nombre </b></label>
+        <input type="text" name="nombre" id="nombre" placeholder="Escribe tu nombre" />
 
-      <label for="apellidos"> <b> Apellidos </b></label>
-      <input type="text" name="apellidos" id="apellidos" placeholder=" Escribe tu Apellidos" />
+        <label for="apellidos"> <b> Apellidos </b></label>
+        <input type="text" name="apellidos" id="apellidos" placeholder=" Escribe tu Apellidos" />
 
-      <label for="email" class="gmail"><b>Email </b></label>
-      <input type="email" name="email" id="email" placeholder="Email" required />
+        <label for="email" class="gmail"><b>Email </b></label>
+        <input type="email" name="email" id="email" placeholder="Email" required />
 
-        <label class="exte" for="servicio"> <b> Probincia </b></label>
+        <label class="exte" for="servicio"> <b> Provincia </b></label>
         <select class="seleccion" name="servicio">
           <option selected>Barcelona</option>
           <option>Tarragona</option>
           <option>Lleida</option>
           <option>Girona</option>
-          
-        </select>
-        <label for="Telefono"> <b>Telefono </b></label>
-      <input type="number" name="telefono" placeholder=" Número" class="tele">
-    </form>
+        <select>
+          <label for="mensaje"><b>Mensaje </b></label>
+          <textarea name="mensaje" for="mensaje" placeholder="Describe brevemente en menos de 300 carácteres"
+            maxlength="300"></textarea>
+
+          <input type="submit" name="enviar" value="Enviar datos" class="boto" />
+          <input type="reset" value="Borrar información" class="bore">
+      </form>
+    </div>
   </section>
   <footer class="footer">
     <ul class="list-footer">
@@ -70,3 +82,4 @@
 </body>
 
 </html>
+
