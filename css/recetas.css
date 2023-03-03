@@ -9,12 +9,88 @@ h3{font-family: 'Kaushan Script', cursive;}
 
 #main-container .bg-recetas-calabacines{
     margin-top: 20px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/calabacines.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/calabacines.jpg);
 }
 #main-container .bg-recetas-pasta{
     margin-top: 20px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/calabacines.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Pasta.jpg);
 }
+
+#main-container .bg-recetas-gambas-ajillo{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Gambas-al-ajillo-600x338.jpg);
+}
+
+#main-container .bg-recetas-macarrones-carbonara{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/macarrones-a-la-carbonara-818x546.jpg);
+}
+
+#main-container .bg-recetas-bacalao-tomate-pimientos{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Bacalao-con-tomate-y-pimientos-600x338.jpg);
+}
+
+#main-container .bg-recetas-coliflor-3-delicias{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Coliflor-3-delicias-600x338.jpg);
+}
+
+#main-container .bg-recetas-costillas-patatas{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Costillas-con-patatas-600x338.jpg);
+}
+
+#main-container .bg-recetas-mijo{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/mijo.jpg);
+}
+
+#main-container .bg-recetas-pollo-toscana{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Pollo-a-la-toscana-600x338.jpg);
+}
+
+#main-container .bg-recetas-roscon-reyes{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/roscon-de-reyes.jpg);
+}
+
+#main-container .bg-recetas-salmon{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg);
+}
+
+#main-container .bg-recetas-torrijas-caramelizadas{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/torrijas-caramelizadas-600x338.jpg);
+}
+
+#main-container .bg-recetas-trenza-hojaldre{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Trenza-de-hojaldre-con-chocolate-600x338.jpg);
+}
+
+#main-container .bg-recetas-galletas{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/galletas.jpg);
+}
+
+#main-container .bg-recetas-ensalada-tomate-aguacate{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Ensalada-de-tomate-y-aguacate-600x338.jpg);
+}
+
+#main-container .bg-recetas-pastel-patata-atun{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/Pastel-de-patata-y-atun.jpg);
+}
+
+#main-container .bg-recetas-barritas{
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/img_recetas/barritas.jpg);
+}
+
 #main-container #recetas-content{
     margin-top: 25px;
     margin-bottom: 25px;
@@ -38,6 +114,8 @@ h3{font-family: 'Kaushan Script', cursive;}
 
 .ingredientes{
     vertical-align: top;
+    border: 1px solid #8B4513; /* Agregar borde de color marrón */
+    border-radius: 10px;
     display: inline-block;
     text-align: center;
     align-items: center;
