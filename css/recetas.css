@@ -1,67 +1,60 @@
-h1,h2 span{font-family: 'Playfair Display SC', serif;}
+h1,h2 span{font-family: 'Playfair Display SC', cover;}
+h3{font-family: 'Kaushan Script', cursive;}
 #recetas-section{
     background-position: center center;
     background-size: 100% 100%;
     height: 100vh;
     padding: 50px;
 }
+
 #main-container .bg-recetas-calabacines{
-    background-image: url(../imagenes/calabacines.jpg);
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/calabacines.jpg);
 }
 #main-container .bg-recetas-pasta{
-    background-image: url(../imagenes/calabacines.jpg);
-}
-#main-container .bg-recetas-calabacines{
-    background-image: url(../imagenes/calabacines.jpg);
-}
-#main-container .bg-recetas-calabacines{
-    background-image: url(../imagenes/calabacines.jpg);
-}
-#main-container .bg-recetas-calabacines{
-    background-image: url(../imagenes/calabacines.jpg);
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../imagenes/calabacines.jpg);
 }
 
-#main-container .recetas-titulo h1{
+.recetas-titulo h1{
     color: white;
     font-size: 5em;
     text-align: center;
 }
-#main-container .recetas-titulo h3{
+.recetas-titulo h3{
     color: white;
+    font-weight: bolder;
     font-size: 2.5em;
     text-align: center;
 }
-#main-container #recetas-content section{
-    background-color: white;
-    margin: 0;
-    padding: 50px;
-    text-align: top;
-    width: 400px;
-}
 
-#main-container #recetas-content {
-    width: 30%;
+.ingredientes{
     vertical-align: top;
     display: inline-block;
+    text-align: center;
+    align-items: center;
 }
-#main-container #preparacion{
-    width: 30%;
-    vertical-align: top;
-    display: inline-block;
+.preparacion{
+   width: 50%;
+   vertical-align: top;
+   display: inline-block;
+   text-align: center;
 }
 #main-container section .lista-ingredientes{
     box-sizing: border-box;
+    list-style: none;
 }
 #main-container section .lista-ingredientes li{
     text-align: left;
-    margin-left: 130px;
+    margin-left: 10px;
+    margin-right: 60px;
 }
 #main-container section .lista-ingredientes li div{
     font-family: 'Playfair Display SC', serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-style: italic;
     vertical-align: middle;
-    width: 150px;
+    width: 140px;
     display: inline-block;
     text-align: right;
     margin-right: 20px;
