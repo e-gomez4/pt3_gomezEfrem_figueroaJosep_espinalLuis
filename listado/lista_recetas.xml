@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="lista_recetas.xsl" type="text/xsl"?>
+
+<recetas>
+    <receta>
+
+    </receta>
+        <nombre>Bacalao con tomate y pimientos</nombre>
+        <ingredienres>
+        <ingrediente>5 cdas de Avena </ingrediente>
+                    <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                    <ingrediente>1/2 vaso de aceite </ingrediente>
+                    <ingrediente>4> huevos </ingrediente>
+                    <ingrediente>150gde queso </ingrediente>
+                    <ingrediente>1 vaso de yogurt </ingrediente>
+                    <ingrediente>15 cdas  de harina </ingrediente>
+                    <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+        </ingredienres>
+        <pasos>
+                <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                <paso>Paso 2:
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                </paso><paso>Paso 3:
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                </paso><paso>Paso 4:
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                </paso><paso>Paso 5:
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                </paso><paso>Paso 6:
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+        </paso>
+        </pasos>
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+    <receta>
+    
+    </receta>
+
+
+</recetas>
