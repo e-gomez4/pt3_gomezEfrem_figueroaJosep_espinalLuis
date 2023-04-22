@@ -2,149 +2,1341 @@
 <?xml-stylesheet href="lista_recetas.xsl" type="text/xsl"?>
 
 <recetas>
-    <receta>
+        <receta>
+                <nombre>Bacalao con tomate y pimientos</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa
+                                exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa
+                                exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa
+                                exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa
+                                exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa
+                                exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa
+                                exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Bacalao-con-tomate-y-pimientos-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Calabacines rellenos de atún</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/calabacines.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Coliflor 3 delicias</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Coliflor-3-delicias-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Costilla con patatas</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Costillas-con-patatas-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>ensalada_tomate_aguacate</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Ensalada-de-tomate-y-aguacate-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Galletas de avena</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis
+                                mollitia blanditiis velit nulla, earum quis quibusdam voluptates
+        culpa exercitationem ab, maxime
+                                fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/galletas.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Gambas al ajillo</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Gambas-al-ajillo-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Macarrones a la carmbonara</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/macarrones-a-la-carbonara-818x546.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Mijo con lentejas</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/mijo.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Pasta</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Pasta.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Pastel de patata y atún</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Pastel-de-patata-y-atun.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Pollo a la toscana</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Pollo-a-la-toscana-600x338.jpgç" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Rosco de reyes</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/roscon-de-reyes.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Torijas carameliazadas</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/torrijas-caramelizadas-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Trenza de hojaldre</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Trenza-de-hojaldre-con-chocolate-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
+                <nombre>Salmon</nombre>
+                <ingredientes>
+                        <ingrediente>5 cdas de Avena </ingrediente>
+                        <ingrediente>4 dientes ingrediente ajo </ingrediente>
+                        <ingrediente>1/2 vaso de aceite </ingrediente>
+                        <ingrediente>4> huevos </ingrediente>
+                        <ingrediente>150gde queso </ingrediente>
+                        <ingrediente>1 vaso de yogurt </ingrediente>
+                        <ingrediente>15 cdas de harina </ingrediente>
+                        <ingrediente>1 bolsa de polvo de hornear </ingrediente>
+                </ingredientes>
+                <preparacion>
+                        <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 2:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 3:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit? </paso>
+                        <paso>Paso 4:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 5:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
+                        <paso>Paso 6:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
+        corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa
+        exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
+                        </paso>
+                </preparacion>
+                <informacion>
+                        <origen>Origen:---</origen>
+                        <gluten>Contiene gluten :no</gluten>
+                        <vegano>Vegano: no</vegano>
+                        <valoracion>Valoracion:8/10</valoracion>
+                        <dificultad>Dificultad: 7/10</dificultad>
+                </informacion>
+                <imagen
+                        src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
+        </receta>
+        -----------------------------------------------------------------------------------------------------------------------
+        <receta>
 
-    </receta>
-        <nombre>Bacalao con tomate y pimientos</nombre>
-        <ingredientes>
-        <ingrediente>5 cdas de Avena </ingrediente>
-                    <ingrediente>4 dientes ingrediente ajo </ingrediente>
-                    <ingrediente>1/2 vaso de aceite </ingrediente>
-                    <ingrediente>4> huevos </ingrediente>
-                    <ingrediente>150gde queso </ingrediente>
-                    <ingrediente>1 vaso de yogurt </ingrediente>
-                    <ingrediente>15 cdas  de harina </ingrediente>
-                    <ingrediente>1 bolsa de polvo de hornear </ingrediente>
-        </ingredientes>
-        <pasos>
-                <paso>Paso 1:Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?</paso>
-                <paso>Paso 2:
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
-                </paso><paso>Paso 3:
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
-                </paso><paso>Paso 4:
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
-                </paso><paso>Paso 5:
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
-                </paso><paso>Paso 6:
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corporis mollitia blanditiis velit nulla, earum quis quibusdam voluptates culpa exercitationem ab, maxime fuga. A quo et at blanditiis minima fugit?
-        </paso>
-        </pasos>
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
-
-    <receta>
-    
-    </receta>
+        </receta>
 
 
 </recetas>
