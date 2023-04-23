@@ -18,7 +18,7 @@ a{
     grid-template-columns: repeat(4,1fr);
     column-gap: 1rem;
     row-gap: 1rem;
-    *margin: 0 100px;
+    *margin: 0 100px
 }
 .tarjeta-rest{
     background-size: cover;
@@ -34,6 +34,7 @@ a{
     padding: .5rem;
     border-radius: 6px;
     background: linear-gradient(to top,rgb(0 0 0/ .5), rgb(0 0 0/ .5));
+    overflow: auto;
 }
 
 .wrap-text_tarjeta-rest p{
@@ -123,6 +124,7 @@ ul.pagination li a.active {
 
 ul.pagination li a:hover:not(.active) {background-color: rgb(111, 31, 31);}
 div.center {text-align: center; margin-bottom: 10px;}
+---------------------------------------------------------------------
 #enlace {
     position: absolute;
     width: 21.9%;

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="lista_recetas.xsl" type="text/xsl"?>
-
+<?xml-stylesheet href="pag_lista_recetas.xsl" type="text/xsl" id="xslt1"?>
+<?xml-stylesheet href="pag_lista_recetas2.xsl" type="text/xsl" id="xslt2"?>
 <recetas>
      <receta>
           <nombre>Pasta</nombre>
-          <link>
-               <a href="recetas_detalladas/pasta.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+           <link href="../receta/recetas_detalladas/pasta.html" />
           <imagen src="../imagenes/img_recetas/Pasta.jpg" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
@@ -15,11 +13,8 @@
 
      <receta>
           <nombre>Calabacines Rellenos</nombre>
-          <imagen src="../imagenes/img_recetas/calabacines.jpg" />
-          <link>
-               <a href="recetas_detalladas/calabaciones_rellenos.html" target="_blank" id="enlace">Más
-                    Info</a>
-          </link>
+          <imagen src="../imagenes/img_recetas/calabacines.jpg"/>
+          <link href="../receta/recetas_detalladas/calabacines_rellenos.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -28,10 +23,7 @@
      <receta>
           <nombre>Mijo con lentejas</nombre>
           <imagen src="../imagenes/img_recetas/mijo.jpg" />
-          <link>
-               <a href="recetas_detalladas/mijo_con_lentejas.htm" target="_blank" id="enlace">Más
-                    Info</a>
-          </link>
+          <link href="../receta/recetas_detalladas/mijo_con_lentejas.html"/>
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -40,9 +32,8 @@
      <receta>
           <nombre>Galletas de avena</nombre>
           <imagen src="../imagenes/img_recetas/galletas.jpg" />
-          <link>
-               <a href="recetas_detalladas/galletas_avena.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/galletas_avena.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -51,10 +42,8 @@
      <receta>
           <nombre>>Macarrones a la carbonara</nombre>
           <imagen src="../imagenes/img_recetas/macarrones-a-la-carbonara-818x546.jpg" />
-          <link>
-               <a href="recetas_detalladas/macarrones_carbonara.html" target="_blank" id="enlace">Más
-                    Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/macarrones_carbonara.html"/>
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -63,10 +52,8 @@
      <receta>
           <nombre>>Pollo a la toscana</nombre>
           <imagen src="../imagenes/img_recetas/Pollo-a-la-toscana-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/macarrones_carbonara.html" target="_blank" id="enlace">Más
-                    Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/macarrones_carbonara.html"/>
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -75,10 +62,8 @@
      <receta>
           <nombre>Bacalao con tomate y pimiento</nombre>
           <imagen src="../imagenes/img_recetas/Bacalao-con-tomate-y-pimientos-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/bacalao_tomate_pimiento.html" target="_blank" id="enlace">Más
-                    Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/bacalao_tomate_pimiento.html"/>
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -87,9 +72,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -98,9 +82,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -109,9 +92,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -120,9 +102,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -131,9 +112,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -142,9 +122,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -153,9 +132,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -164,9 +142,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -175,9 +152,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -186,9 +162,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -197,9 +172,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -208,9 +182,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -219,9 +192,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -230,9 +202,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -241,9 +212,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -252,9 +222,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -263,9 +232,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -274,9 +242,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -285,9 +252,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -296,9 +262,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -307,9 +272,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -318,9 +282,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
@@ -329,9 +292,8 @@
      <receta>
           <nombre>Salmón</nombre>
           <imagen src="../imagenes/img_recetas/Salmon-en-freidora-de-aire-airfryer-600x338.jpg" />
-          <link>
-               <a href="recetas_detalladas/salmon.html" target="_blank" id="enlace">Más Info</a>
-          </link>
+          <link
+                href="../receta/recetas_detalladas/salmon.html" />
           <informacion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quam ut
                corporis minima, repellendus
                aliquam rerum quis quisquam error voluptates enim nihil dolorem? Ipsa, temporibus.</informacion>
